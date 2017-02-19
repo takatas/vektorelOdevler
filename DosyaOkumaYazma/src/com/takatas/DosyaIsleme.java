@@ -19,6 +19,8 @@ public class DosyaIsleme {
 			+ "@PatNo:234566@Pat:Canan TEMEL@Age:75@HBG:29@AG:45@#";
 
 	public static void main(String[] args) {
+		
+
 
 		Scanner scanner = new Scanner(System.in);
 
